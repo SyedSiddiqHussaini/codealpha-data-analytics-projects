@@ -1,0 +1,80 @@
+Task 2: Exploratory Data Analysis (EDA) - CodeAlpha Internship 📊
+
+--> Project Overview
+This project is completed as part of my **Data Analytics Internship at CodeAlpha**.  
+The objective of Task 2 is to perform **Exploratory Data Analysis (EDA)** on a real-world dataset in order to understand the data, clean it, and generate meaningful insights through visualization.
+
+The dataset used for this task is:
+📁 **worldbank_indicators.csv**
+
+EDA is a crucial step in data analytics because it helps analysts understand the dataset before applying any advanced analysis or building machine learning models.
+
+
+--> Objectives
+- Understand the structure of the dataset
+- Identify important indicators and features
+- Handle missing values and clean the dataset
+- Explore patterns, trends, and irregularities in the data
+- Visualize insights using graphs and charts
+
+
+--> Tools & Technologies Used
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **CSV Dataset (World Bank Indicators)**
+
+
+--> Work Performed
+
+--> 1. Dataset Understanding
+- Loaded the dataset and explored its structure
+- Checked the number of rows and columns
+- Reviewed data types and key indicators
+- Generated summary statistics
+
+--> 2. Missing Values Handling
+- Identified missing values in the dataset
+- Cleaned and processed missing data for better accuracy
+- Improved dataset quality for further analysis
+
+--> 3. Trend & Pattern Analysis
+- Explored how indicators change over time
+- Identified trends and irregularities
+- Detected possible anomalies in the dataset
+
+--> 4. Data Visualization (Matplotlib)
+- Created graphs and plots using Matplotlib
+- Visualized trends and distributions for better interpretation
+- Extracted meaningful insights through visual analysis
+
+
+--> Output
+The final result includes:
+- Cleaned dataset (after handling missing values)
+- Visualizations and graphs showing trends and patterns
+- Improved understanding of real-world data exploration workflow
+
+--> Learning Outcomes
+Through this project, I gained practical experience in:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis workflow
+- Handling missing values in datasets
+- Visualization techniques using Matplotlib
+- Working with real-world datasets for decision-making
+
+
+--> Dataset
+Dataset Used: **worldbank_indicators.csv**
+
+
+--> Author
+**Syed Siddiq Hussaini**  
+Data Analytics Intern - CodeAlpha  
+LinkedIn: *(Add your LinkedIn profile link here)*  
+GitHub: *(Add your GitHub profile link here)*  
+
+---
+
+--> Internship Note
+This project is part of my internship submission for **CodeAlpha Data Analytics Internship**.
